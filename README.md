@@ -4,7 +4,7 @@ const profile = {
     askMeAbout: ["web dev", "desktop dev", "tech", "app dev"],
     technologies: {
        frontEnd: ["Vue3", "Next"],
-       mobileApp: ["Java", "Kotilin"],
+       mobileApp: ["Java", "Kotlin"],
        backEnd: {
             js: ["node", "express"],
             c#: ["Entity Framework"],
