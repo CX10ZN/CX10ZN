@@ -6,7 +6,7 @@ const profile = {
        frontEnd: ["Vue3", "Next"],
        mobileApp: ["Java", "Kotlin"],
        backEnd: {
-            js: ["node", "express"],
+            js: ["NodeJs", "Express Framework"],
             c#: ["Entity Framework"],
             php: ["Laravel Framework"],
         },
