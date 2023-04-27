@@ -3,7 +3,7 @@ const profile = {
     code: ["PHP", "TypeScript", "C#", "C++", "NodeJs"],
     technologies: {
        frontEnd: ["Html", "Blade", "Svelte", "React"],
-       enthusiasm: ["FiveM"]
+       enthusiasm: ["FiveM", "Exchange", "WEB3", "Solidity"]
        mobileApp: ["Kotlin"],
        backEnd: {
             js: ["Express Framework", "NextJs", "NuxtJS"],
