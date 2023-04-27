@@ -1,16 +1,16 @@
 ```javascript
 const profile = {
-    code: ["PHP", "Javascript", "C#", "C++", "NodeJs", "HTML", "CSS"],
-    askMeAbout: ["web dev", "desktop dev", "tech", "app dev"],
+    code: ["PHP", "TypeScript", "C#", "C++", "NodeJs"],
     technologies: {
-       frontEnd: ["Vue3", "Next"],
-       mobileApp: ["Java", "Kotlin"],
+       frontEnd: ["Html", "Blade", "Svelte", "React"],
+       enthusiasm: ["FiveM"]
+       mobileApp: ["Kotlin"],
        backEnd: {
-            js: ["NodeJs", "Express Framework"],
+            js: ["Express Framework", "NextJs", "NuxtJS"],
             c#: ["Entity Framework"],
             php: ["Laravel Framework"],
         },
-        databases: ["MySql", "sqlite"],
+        databases: ["MySql", "SqLite", "MongoDB"],
     },
 
 }
@@ -30,16 +30,15 @@ const profile = {
     <img align="center" alt="CX10ZN-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
     <img align="center" alt="CX10ZN-android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
     <img align="center" alt="CX10ZN-socketio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original-wordmark.svg">
-
 </div>
  
  ##
  
 <div> 
-  <a href="https://www.youtube.com/channel/UCM64AjpHJvqQhZ-H2oaaJOA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/D5WfJ3NWZr" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/D5WfJ3NWZr" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:cx10zn@godsteam.net"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://www.youtube.com/channel/UCM64AjpHJvqQhZ-H2oaaJOA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"</a>
+   <a href="https://discord.gg/D5WfJ3NWZr" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+   <a href="https://discord.gg/D5WfJ3NWZr" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+   <a href = "mailto:godscx10zn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
